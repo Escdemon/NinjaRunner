@@ -13,4 +13,5 @@ Unity steps :
 - Coder le jump (2) set la jumpForce à  10 Tester. Ca fonctionne mais on dirait un astronaute sur la lune. 
 	Augmenter la gravité du ninja à 4 et la jumpForce à 15.
 - Problème des jumps à l'infini.
-- Layer Ground pour l'identifier.
+- Layer Ground pour l'identifier. Layer Player
+- add playerController code (3) pour l'empêcher de jump
